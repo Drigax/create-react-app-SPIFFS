@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-spiffs",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "Configuration and scripts for Create React App for embedded applications using SPIFFS.",
   "repository": {
     "type": "git",
