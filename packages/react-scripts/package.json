@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-spiffs",
   "version": "5.0.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Create React App for embedded applications using SPIFFS.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/drigax/create-react-app-SPIFFS.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=14.0.0"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/drigax/create-react-app-SPIFFS/issues"
   },
   "files": [
     "bin",
